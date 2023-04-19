@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
-    <title>My First Bootstrap Page</title>
+    <title>Home</title>
+    <link rel="shortcut icon" href="logo_mini.png">
     <!-- CSS only -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
           rel="stylesheet"
@@ -11,7 +13,11 @@
     <link href="css/main.css" rel="stylesheet">
 
 </head>
+
 <body>
+<header style="background-color: steelblue">
+    <img src="logo_main.png" alt="Town Hall logo" height="80" class="banner">
+</header>
 <div class="container-fluid">
     <div class="row">
             <nav class="navbar navbar-expand-md
@@ -20,36 +26,29 @@
                     col-12">
 
                 <!-- Brand -->
-                <a class="navbar-brand" href="#"> <img src="logo.png" alt="logo"></a>
+                <a class="navbar-brand" href="index.html"> <img src="logo_mini.png" alt="logo" height="50"></a>
                 <!-- Responsive Button for the smaller menu -->
                 <button class="navbar-toggler" type="button"
                         data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="collapsibleNavbar">
-                    <ul class="navbar-nav">
+                    <ul class="navbar-nav" >
                         <!-- Links -->
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Link 1</a>
+                        <li class="nav-item" >
+                            <a id="nav-text" class="nav-link" href="aboutme.html">About Me</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Link 2</a>
+                            <a id="nav-text" class="nav-link" href="contact.html">Contact</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Contact</a>
-                        </li>
-
                         <!-- Dropdown -->
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="navbardrop"
+                            <a id="nav-text" class="nav-link dropdown-toggle" href="#" id="navbardrop"
                                data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                Education
-                            </a>
+                                Experience</a>
                             <div class="dropdown-menu">
-                                <a class="dropdown-item" href="#">Link 1</a>
-                                <a class="dropdown-item" href="#">Link 2</a>
-                                <a class="dropdown-item" href="#">Link 3</a>
-                                <a class="dropdown-item" href="#">Link 4</a>
+                                <a class="dropdown-item" href="workex.html">Work Experience</a>
+                                <a class="dropdown-item" href="schoolex.html">School Experience</a>
                             </div>
                         </li>
                     </ul>
@@ -69,15 +68,27 @@
         <p class="col-1">Col 11</p>
         <p class="col-1">Col 12</p>
         </div>
-    <div class="col-sm-4  text-center">
-        <h2>h2 Bootstrap heading (24px)</h2>
-        <h3>h2 Bootstrap heading (18px)</h3>
+    <div id="jumbo" class="col-m-4 p-5  text-white rounded text-center">
+        <h2>Welcome to my online resume!</h2>
+        <h4>This site shows everything that I have done and accomplished</h4>
     </div>
+        <p></p>
+        <div id="jumbo" class="col-sm-4 p-5  text-white rounded text-center">
+            <h2>Content</h2>
+        </div>
+        <div id="jumbo" class="col-sm-4 p-5  text-white rounded text-center">
+            <h2>Content</h2>
+        </div>
+        <div id="jumbo" class="col-sm-4 p-5  text-white rounded text-center">
+            <h2>Content</h2>
+        </div>
+
+
 </div>
  <footer class="footer page-footer font-small ">
      <div class="container">
         <div class="row">
-            <span class="text-muted">&copy; Malin Zehirov, 2023 |  Terms Of Use  |  Privacy Statement</span>
+            <span class="text-muted"><p class="close">&copy; Malin Zehirov, 2023 |  Terms Of Use  |  Privacy Statement</p></span>
         </div>
      </div>
   </footer>
