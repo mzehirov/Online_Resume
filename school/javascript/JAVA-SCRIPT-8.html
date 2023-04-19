@@ -1,0 +1,126 @@
+<html>
+
+ <head>
+ 
+  <title> 1/14/19 </title>
+  
+  <style>
+  
+   body {
+          background-color: purple;
+        }
+   table, th,  td {
+    border-collapse: collapse;
+    font-family: courier new;
+      } 
+  
+   h1 {
+       color: yellow;
+       text-align: center;
+       font-family: courier new;
+       font-size: 45
+    
+      }
+
+   h2 {
+       color: yellow;
+       text-align: center;
+       font-family: courier new;
+       font-size: 40
+    
+      }
+   h3 {
+       color: yellow;
+       text-align: center;
+       font-family: courier new;
+       font-size: 20
+    
+      }
+
+  </style>
+  
+ </head>
+ 
+ <body>
+ 
+  <h1>Computer Science II </h1>
+  
+  <h2>Malin Zehirov</h2>
+  
+  <center>
+  
+  <script type= "text/javascript">
+  
+  var TodaysDate = new Date ();
+  var Year = TodaysDate.getFullYear(); 
+  var Day = TodaysDate.getDate();
+  var Month = TodaysDate.getMonth()+1;
+  Month = Month < 10 ? "0"+Month : Month;
+  document.write("<h3>"+Month +"/"+ Day +"/"+ Year+"</h3>");
+  var Hour = TodaysDate.getHours();
+  var Minute = TodaysDate.getMinutes();
+  var ampm = (Hour < 12) ? " a.m." : " p.m.";
+  Hour = (Hour > 12) ? Hour - 12 : Hour;
+  Hour = (Hour == 0) ? 12 : Hour;
+  Minute = Minute < 10 ? "0"+Minute : Minute;
+  document.write("<h3>"+Hour + ":" + Minute + ampm+"</h3>");
+  
+  </script> 
+  ________________________________________________________________________
+  
+  <script>
+  
+  var numberA = prompt("Enter The First Number", "Enter Here!");
+  var numberB = prompt("Enter The Second Number", "Enter Here!");
+  var decimalA = prompt("Enter The Of Decimal Places", "Enter Here!");
+  var numberC = numberA / numberB;
+  
+  document.write(" <center><table> <tr><th><center><br>The following two numbers\
+   that you have\
+  selected will divid the numberA by numberB, <br><br> Then will be rounded to the decimal\
+  place of your selection.</th></tr><tr><td><center><br>\
+  numberA = " + numberA + "\
+  </td></tr><tr><td><center><br>numberB = " + numberB +"</td></tr></table>");
+  
+  
+  document.write(" <center><table><tr><td><center><br>numberA / numberB\
+  </td></tr><tr><td><center><br>"+numberA + "/" + numberB +"</td></tr></table>");
+  
+  
+    if ((isNaN(numberC))== true) 
+    
+  {
+  
+  alert("ERROR: The resulting value is an NaN\
+  number.  Please check your input and try again.");
+  
+  }
+  
+  else 
+  
+  {
+  
+      document.write("<br>= "+numberC);
+      
+     }
+     
+  
+    var numberD = numberC.toFixed(decimalA);
+    
+    document.write("<br><br>= "+numberD);
+  
+  
+  </script>
+  
+  </body>
+  
+  </html>
+  
+  
+  
+  
+  
+  
+  
+  
+  

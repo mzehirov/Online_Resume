@@ -1,0 +1,147 @@
+<html>
+ <head>
+  <title> Lab 1 </title>
+  <style>
+   body {
+          background-color: #B03A2E  ;
+        }
+   table, th,  td {
+    border-collapse: collapse;
+    color: #F8C471  ;
+    font-family: courier new;
+      }
+   h1 {
+       color: #F8C471  ;
+       text-align: center;
+       font-family: courier new;
+       font-size: 40
+      }
+   h2 {
+       color: #F8C471  ;
+       text-align: center;
+       font-family: courier new;
+       font-size: 40
+      }
+   h3 {
+       color: #F8C471;
+       text-align: center;
+       font-family: courier new;
+       font-size: 20
+      }
+  </style>
+
+  <script type= "text/javascript">
+
+  function showDate() {
+  var TodaysDate = new Date ();
+  var Year = TodaysDate.getFullYear();
+  var Day = TodaysDate.getDate();
+  var Month = TodaysDate.getMonth()+1;
+  Month = Month < 10 ? "0"+Month : Month;
+  Day = Day < 10 ? "0"+Day : Day;
+  document.write("<h3>"+Month +"/"+ Day +"/"+ Year+"</h3>");
+  }
+
+  function showTime() {
+  var TodaysDate = new Date ();
+  var Hour = TodaysDate.getHours();
+  var Minute = TodaysDate.getMinutes();
+  var ampm = (Hour < 12) ? " a.m." : " p.m.";
+  Hour = (Hour > 12) ? Hour - 12 : Hour;
+  Hour = (Hour == 0) ? 12 : Hour;
+  Minute = Minute < 10 ? "0"+Minute : Minute;
+  document.write("<h3>" + Hour + ":" + Minute + ampm + "</h3>");
+  }
+
+  </script>
+
+ </head>
+ <body>
+  <center>
+  <table>
+  <tr>
+   <th colspan=3>
+   <h1> COMPUTER SCIENCE II</h1>
+   <h2> MALIN ZEHIROV </h2>
+   </th>
+  </tr>
+  <tr>
+   <td>
+    <script>
+    showTime();
+    </script>
+   </td>
+   <td>
+   <h3> LAB 1 </h3>
+   </td>
+   <td>
+   <script>
+    showDate();
+    </script>
+   </td>
+  </tr>
+  </table>
+  <center>
+  <h3>
+________________________________________________________________________
+
+  </h3>
+  <script>
+		var salary = new Array();
+		for(var x = 1; x <= 10; x++)
+		{
+			do
+			{
+				var y = prompt("Enter A Salary.");
+				if(y<0)
+				{
+					alert("Please make a valid selection!");
+          continue;
+				}
+			}
+			while(y<0);
+			salary[x] = y;
+		}
+		var sum = 0;
+		for (var x = 1; x < salary.length; x++)
+		{
+  			sum = sum + Number(salary[x]);
+		}
+		var ave = sum/10
+		var average = Math.round(ave);
+		document.write("<h3><br>"+"The salary average is $" + average + "." + " The total is $" + sum + ".</h3>");
+
+    document.write("<table BORDER = 4>");
+    document.write("<tr>");
+    document.write("<th COLSPAN= 10><br>SALARIES<br></th>");
+    document.write("</tr>");
+    document.write("<tr>");
+    document.write("<th>SALARY #1</th>");
+    document.write("<th>SALARY #2</th>");
+    document.write("<th>SALARY #3</th>");
+    document.write("<th>SALARY #4</th>");
+    document.write("<th>SALARY #5</th>");
+    document.write("<th>SALARY #6</th>");
+    document.write("<th>SALARY #7</th>");
+    document.write("<th>SALARY #8</th>");
+    document.write("<th>SALARY #9</th>");
+    document.write("<th>SALARY #10</th>");
+    document.write("</tr>");
+    document.write("<tr>");
+    document.write("<th>$"+salary[1]+"</th>");
+    document.write("<th>$"+salary[2]+"</th>");
+    document.write("<th>$"+salary[3]+"</th>");
+    document.write("<th>$"+salary[4]+"</th>");
+    document.write("<th>$"+salary[5]+"</th>");
+    document.write("<th>$"+salary[6]+"</th>");
+    document.write("<th>$"+salary[7]+"</th>");
+    document.write("<th>$"+salary[8]+"</th>");
+    document.write("<th>$"+salary[9]+"</th>");
+    document.write("<th>$"+salary[10]+"</th>");
+    document.write("</tr>");
+    document.write("</table>");
+    </script>
+
+<img src="money.gif" width= 400 height= 400>
+</body>
+</html>

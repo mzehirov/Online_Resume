@@ -1,0 +1,71 @@
+<html>
+ <head>
+  <title> 1/17/19 </title>
+  <style>
+   body {
+          background-color: black;
+        }
+   table, th,  td {
+    border-collapse: collapse;
+    font-family: courier new;
+      } 
+  
+   h1 {
+       color: yellow;
+       text-align: center;
+       font-family: courier new;
+       font-size: 45
+    
+      }
+
+   h2 {
+       color: yellow;
+       text-align: center;
+       font-family: courier new;
+       font-size: 40
+    
+      }
+   h3 {
+       color: yellow;
+       text-align: center;
+       font-family: courier new;
+       font-size: 20
+    
+      }
+
+  </style>
+ </head>
+ <body>
+  <h1>Computer Science II </h1>
+  <h2>Malin Zehirov</h2>
+  <center>
+  <script type= "text/javascript">
+  var TodaysDate = new Date ();
+  var Year = TodaysDate.getFullYear(); 
+  var Day = TodaysDate.getDate();
+  var Month = TodaysDate.getMonth()+1;
+  Month = Month < 10 ? "0"+Month : Month;
+  document.write("<h3>"+Month +"/"+ Day +"/"+ Year+"</h3>");
+  var Hour = TodaysDate.getHours();
+  var Minute = TodaysDate.getMinutes();
+  var ampm = (Hour < 12) ? " a.m." : " p.m.";
+  Hour = (Hour > 12) ? Hour - 12 : Hour;
+  Hour = (Hour == 0) ? 12 : Hour;
+  Minute = Minute < 10 ? "0"+Minute : Minute;
+  document.write("<h3>"+Hour + ":" + Minute + ampm+"</h3>");
+  </script> 
+  ________________________________________________________________________  
+  
+  <script> 
+  
+  setInterval("alert('You are currently being hacked by an unknown user!!');",3000);
+  
+  
+  </script>
+  
+  <img src="matrix.gif" width= 1100 height= 400>
+  
+ </body>
+</html>
+
+  

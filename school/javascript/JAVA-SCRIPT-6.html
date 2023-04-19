@@ -1,0 +1,148 @@
+<html>
+ <head>
+  <title> Lab 2 </title>
+  <style>
+   body {
+          background-color: #1A5276;
+        }
+   table, th,  td {
+    border-collapse: collapse;
+    font-family: courier new;
+      }
+   h1 {
+       color: white;
+       text-align: center;
+       font-family: courier new;
+       font-size: 40
+      }
+   h2 {
+       color: white;
+       text-align: center;
+       font-family: courier new;
+       font-size: 40
+      }
+   h3 {
+       color: white;
+       text-align: center;
+       font-family: courier new;
+       font-size: 20
+      }
+  </style>
+
+  <script type= "text/javascript">
+
+  function showDate() {
+  var TodaysDate = new Date ();
+  var Year = TodaysDate.getFullYear();
+  var Day = TodaysDate.getDate();
+  var Month = TodaysDate.getMonth()+1;
+  Month = Month < 10 ? "0"+Month : Month;
+  Day = Day < 10 ? "0"+Day : Day;
+  document.write("<h3>"+Month +"/"+ Day +"/"+ Year+"</h3>");
+  }
+
+  function showTime() {
+  var TodaysDate = new Date ();
+  var Hour = TodaysDate.getHours();
+  var Minute = TodaysDate.getMinutes();
+  var ampm = (Hour < 12) ? " a.m." : " p.m.";
+  Hour = (Hour > 12) ? Hour - 12 : Hour;
+  Hour = (Hour == 0) ? 12 : Hour;
+  Minute = Minute < 10 ? "0"+Minute : Minute;
+  document.write("<h3>" + Hour + ":" + Minute + ampm + "</h3>");
+  }
+
+  </script>
+
+ </head>
+ <body>
+  <center>
+  <table><tr>
+   <th colspan=3>
+   <h1> COMPUTER SCIENCE II</h1>
+   <h2> MALIN ZEHIROV </h2>
+   </th>
+  </tr><tr>
+   <td><script>
+    showTime();
+    </script></td>
+   <td>
+   <h3> LAB 2 </h3>
+   </td>
+   <td><script>
+    showDate();
+   </script></td>
+  </tr></table>
+  <center>
+    <button onclick="Print()">SELECT A QUESTION</button>
+  <h3>
+________________________________________________________________________
+
+  </h3>
+ <center>
+   <script>
+
+     function WriteQuestions(ques) {
+     var Question= new Array();
+     Question[0]="QUESTION: What command extracts the day of the week value from a date object variable named thisDate?";
+     Question[1]="QUESTION: What day of the week value is retunred for a date occurring on a Friday?";
+     Question[2]="QUESTION: What command changes the thisDate variable to the fifth day of the month?";
+     Question[3]="QUESTION: A function named showDate() has an optional parameter named thisDate. What expression test whether the showDate() function was called with a value set for the thisDate parameter?";
+     Question[4]="QUESTION: What command breaks out of a program loop?";
+     Question[5]="QUESTION: What command forces the script to go to the next iteration of the current program loop?";
+     return Question[ques];
+     }
+     function WriteAnswers(answ) {
+     var Answer= new Array();
+      Answer[0]="ANSWER: thisDate.getDay();";
+			Answer[1]="ANSWER: The value will be 5.";
+			Answer[2]="ANSWER: thisDate=5;";
+			Answer[3]="ANSWER: It will test the function.";
+			Answer[4]="ANSWER: break;";
+			Answer[5]="ANSWER: continue;";
+     return Answer[answ];
+     }
+    function Print(){
+    var select = prompt("CHOOSE A QUESTION TO BE ANSWERED.");
+    while(select < 0 || select > 9){
+      alert("Please make a valid selection");
+      var select = prompt("Choose 1 - 8");
+    }
+    var thisquestion = WriteQuestions(select-1);
+    var thisanswer = WriteAnswers(select-1);
+    alert(thisquestion + " //// " + thisanswer);
+   }
+
+   </script>
+
+   <table style="width:80%">
+    <tr bgcolor = "darkblue">
+    <td>
+    <b>
+    <font size = "5" color = "white">
+    <script type= "text/javascript">
+    document.write("Session 3.3 Quick Check");
+    </script>
+    </font>
+    </b>
+    </td>
+    </tr>
+    <tr bgcolor = "#1A5276">
+    <td>
+    <br>
+    <font size = "5" color = "white">
+    <script type= "text/javascript">
+    document.write("<br><b> 1. </b>What command extracts the day of the week value from a date object variable named thisDate?");
+    document.write("<br><b> 2. </b>What day of the week value is retunred for a date occurring on a Friday?");
+    document.write("<br><b> 3. </b>What command changes the thisDate variable to the fifth day of the month?");
+    document.write("<br><b> 4. </b>A function named showDate() has an optional parameter named thisDate. What expression test whether the showDate() function was called with a value set for the thisDate parameter?");
+    document.write("<br><b> 5. </b>What command breaks out of a program loop?");
+    document.write("<br><b> 6. </b>What command forces the script to go to the next iteration of the current program loop?");
+    </script>
+    </font>
+    </td>
+    </tr>
+   </table>
+
+ </body>
+ </html>

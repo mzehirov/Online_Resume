@@ -1,0 +1,163 @@
+<html>
+ <head>
+  <title> Lab 1 </title>
+  <style>
+   body {
+          background-color: teal;
+        }
+   table, th,  td {
+    color: yellow;
+    border-collapse: collapse;
+    font-family: courier new;
+      }
+   h1 {
+       color: yellow;
+       text-align: center;
+       font-family: courier new;
+       font-size: 40
+      }
+   h2 {
+       color: yellow;
+       text-align: center;
+       font-family: courier new;
+       font-size: 40
+      }
+   h3 {
+       color: yellow;
+       text-align: center;
+       font-family: courier new;
+       font-size: 20
+      }
+  </style>
+
+  <script type= "text/javascript">
+
+  function showDate() {
+  var TodaysDate = new Date ();
+  var Year = TodaysDate.getFullYear();
+  var Day = TodaysDate.getDate();
+  var Month = TodaysDate.getMonth()+1;
+  Month = Month < 10 ? "0"+Month : Month;
+  Day = Day < 10 ? "0"+Day : Day;
+  document.write("<h3>"+Month +"/"+ Day +"/"+ Year+"</h3>");
+  }
+
+  function showTime() {
+  var TodaysDate = new Date ();
+  var Hour = TodaysDate.getHours();
+  var Minute = TodaysDate.getMinutes();
+  var ampm = (Hour < 12) ? " a.m." : " p.m.";
+  Hour = (Hour > 12) ? Hour - 12 : Hour;
+  Hour = (Hour == 0) ? 12 : Hour;
+  Minute = Minute < 10 ? "0"+Minute : Minute;
+  document.write("<h3>" + Hour + ":" + Minute + ampm + "</h3>");
+  }
+
+  </script>
+
+ </head>
+ <body>
+  <center>
+  <table>
+  <tr>
+   <th colspan=3>
+   <h1> COMPUTER SCIENCE II</h1>
+   <h2> MALIN ZEHIROV </h2>
+   </th>
+  </tr>
+  <tr>
+   <td><script>
+    showTime();
+    </script></td>
+   <td>
+   <h3> LAB 1 </h3>
+   </td>
+   <td><script>
+    showDate();
+   </script></td>
+  </tr>
+  </table>
+  <center>
+  <h3>
+________________________________________________________________________
+
+  </h3>
+ <center>
+
+<table border="5">
+  <tr>
+    <th colspan="2">STUDENT GRADES</th>
+  </tr>
+  <tr>
+    <td><center>100 - 90</td>
+    <td><center>A</td>
+  </tr>
+  <tr>
+    <td><center>89 - 80</td>
+    <td><center>B</td>
+  </tr>
+  <tr>
+    <td><center>79 - 70</td>
+    <td><center>C</td>
+  </tr>
+  <tr>
+    <td><center>69 - 65</td>
+    <td><center>D</td>
+  </tr>
+  <tr>
+    <td><center>64 - 0</td>
+    <td><center>F</td>
+  </tr>
+</table><BR>
+  <button onclick="LETTER()"> SEE YOUR GRADE </button>
+<script>
+
+  function NumGrade(Inum)
+		{
+			var Grade= new Array(101);
+			for(var x=0;x<101;x++)
+			{
+				Grade[x] = x;
+			}
+			return Grade[Inum];
+		}
+	function Letter(ItemNumber)
+		{
+			var ABCGrade= new Array(101);
+			for(var x=0;x<=64;x++)
+			{
+				ABCGrade[x] = "F";
+			}
+			for(var x=65;x<=69;x++)
+			{
+				ABCGrade[x] = "D";
+			}
+			for(var x=70;x<=79;x++)
+			{
+				ABCGrade[x] = "C";
+			}
+			for(var x=80;x<=89;x++)
+			{
+				ABCGrade[x] = "B";
+			}
+			for(var x=90;x<=100;x++)
+			{
+				ABCGrade[x] = "A";
+			}
+			return ABCGrade[ItemNumber];
+		}
+function LETTER(){
+ do {
+   var gradenum = prompt("INPUT THE GRADE NUMBER.");
+   if (gradenum < 0 || gradenum > 100) {
+     alert("Make valid selection");
+   }
+ }
+ while (gradenum < 0 || gradenum > 100);
+ var gradeletter = Letter(gradenum);
+ alert(gradeletter);
+}
+
+</script>
+</body>
+</html>

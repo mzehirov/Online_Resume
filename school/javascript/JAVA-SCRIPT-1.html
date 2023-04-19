@@ -1,0 +1,86 @@
+<html>
+ <head>
+  <title> 1/10/19 </title>
+  <style>
+   body {
+          background-color: green;
+        }
+   table, th,  td {
+    border-collapse: collapse;
+    font-family: courier new;
+      } 
+  
+   h1 {
+       color: yellow;
+       text-align: center;
+       font-family: courier new;
+       font-size: 50
+    
+      }
+
+   h2 {
+       color: yellow;
+       text-align: center;
+       font-family: courier new;
+       font-size: 40
+    
+      }
+
+  </style>
+ </head>
+ <body>
+  <h1>Computer Science II </h1>
+  <h2>Malin Zehirov</h2>
+  <center>
+  
+  
+  <script>
+  
+  var numberA = prompt("Enter The First Number", "Enter Here!");
+  var numberB = prompt("Enter The Second Number", "Enter Here");
+  var numberC = numberA / numberB;
+  
+  document.write(" <center><table> <tr><th><center><br>The following two numbers\
+   that you have\
+  selected will divid the numberA by numberB</th></tr><tr><td><center><br>\
+  numberA = " + numberA + "\
+  </td></tr><tr><td><center><br>numberB = " + numberB +"</td></tr></table>");
+  
+  document.write(" <center><table><tr><td><center><br>numberA / numberB\
+  </td></tr><tr><td><center><br>"+numberA + "/" + numberB +"</td></tr></table>");
+  
+  
+  if ((isFinite(numberC))== false) 
+  {
+  alert("ERROR: The resulting value is an infinite\
+  number.  Please check your input and try again.");
+  }
+  else 
+  {
+      if ((isNaN(numberC))== true) 
+      {
+      alert("ERROR: The resulting value is an NaN \
+      number.  Please check your input and try again.");
+      
+     }
+     
+  else
+  
+  {
+  
+  document.write("= "+numberC);
+  
+  }
+  
+  }
+  
+
+  
+  
+  
+  
+  
+  
+  </script>
+  </body>
+  </html>
