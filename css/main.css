@@ -48,7 +48,8 @@ a:hover {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: steelblue;
+    background-image: linear-gradient(
+            30deg, white 0%, steelblue 30%, steelblue 50%, steelblue 80%, white 100%);
     color: white;
     text-align: center;
     padding: 10px;
@@ -114,3 +115,37 @@ article div img {
     max-width: 50%;
 }
 /*---------------- end school page----------------*/
+/*---------------- mobile page----------------*/
+
+#mobile_menu {
+    display: none;
+}
+
+@media only screen and (max-width: 650px) {
+    header img {
+        float: none;
+    }
+    header {
+        text-align: center;
+    }
+
+    article img {
+        max-width: 30%;
+    }
+
+    #nav_menu {
+        display: none;
+    }
+    #mobile_menu {
+        display: block;
+    }
+    .slicknav_menu {
+        background-color: steelblue !important;
+    }
+}
+
+@media only screen and (max-width: 412px) {
+    body { font-size: 90%; }
+}
+
+/*---------------- end mobile page----------------*/

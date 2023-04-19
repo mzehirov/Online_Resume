@@ -11,6 +11,14 @@
           integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
           crossorigin="anonymous">
     <link href="css/main.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/slicknav.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="js/jquery.slicknav.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $('#nav_menu').slicknav({prependTo:"#mobile_menu"});
+        });
+    </script>
 
 </head>
 
@@ -20,13 +28,14 @@
 </header>
 <div class="container-fluid">
     <div class="row">
-            <nav class="navbar navbar-expand-md
+        <nav id="mobile_menu"></nav>
+        <nav class="navbar navbar-expand-md
                     justify-content-start
                     bg-dark navbar-dark
                     col-12">
 
                 <!-- Brand -->
-                <a class="navbar-brand" href="index.html"> <img src="pictures/logo_mini.png" alt="logo" height="50"></a>
+            <a class="navbar-brand" href="index.html"> <img src="pictures/logo_mini.png" alt="logo" height="50"></a>
                 <!-- Responsive Button for the smaller menu -->
                 <button class="navbar-toggler" type="button"
                         data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
