@@ -117,45 +117,4 @@ article div img {
 /*---------------- end school page----------------*/
 /*---------------- mobile page----------------*/
 
-#mobile_menu {
-    display: none;
-}
-@media only screen and (max-width: 700px) {
-    section h1 {
-        font-size: 125%
-    }
-    section h2, aside h2 {
-        font-size: 110%;
-    }
-    aside h2 a {
-        font-size: 85%;
-    }
-}
-@media only screen and (max-width: 650px) {
-    header img {
-        float: none;
-    }
-    header {
-        text-align: center;
-    }
-
-    article img {
-        max-width: 30%;
-    }
-
-    #nav_menu {
-        display: none;
-    }
-    #mobile_menu {
-        display: block;
-    }
-    .slicknav_menu {
-        background-color: steelblue !important;
-    }
-}
-
-@media only screen and (max-width: 412px) {
-    body { font-size: 90%; }
-}
-
 /*---------------- end mobile page----------------*/
