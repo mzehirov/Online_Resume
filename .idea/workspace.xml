@@ -5,419 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b0e5caa-a2be-4f73-accd-f892b78d3650" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/aboutme.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schoolex.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workex.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A06/my-first-web-page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A07/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A07/.idea/A07.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A07/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A07/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A07/images/brancaccio75.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A07/images/chua75.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A07/images/eire75.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A07/images/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A07/images/sampson75.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A07/images/sampson_dinosaur.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A07/images/sorkin75.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A07/images/town_hall_logo.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A07/images/tynan75.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A07/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A07/js/jquery.slicknav.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A07/media/sampson.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A07/speakers/brancaccio.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A07/speakers/c6_sampson.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A07/speakers/c7_sampson.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A07/speakers/chua.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A07/speakers/sorkin.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A07/styles/c4_main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A07/styles/c5_main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A07/styles/c6_main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A07/styles/c6_speaker.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A07/styles/c7_main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A07/styles/c7_speaker.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A07/styles/c8_main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A07/styles/slicknav.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A07/templates/basic.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/Web Storm/A07/text/c3_content.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/.vs/.slnx.sqlite.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/.vs/book_apps/config/.applicationhost.config.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch01/.book.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch01/.javascript_jquery.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch02/.book.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch02/.javascript_jquery.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch02/.test.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch03/town_hall/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch04/town_hall/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch04/town_hall/styles/.main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch05/town_hall/.index1.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch05/town_hall/.index2.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch05/town_hall/.index3.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch05/town_hall/styles/.main1.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch05/town_hall/styles/.main2.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch05/town_hall/styles/.main3.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch05/town_hall/styles/.normalize.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch06/town_hall/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch06/town_hall/.sampson.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch06/town_hall/styles/.combined.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch06/town_hall/styles/.main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch06/town_hall/styles/.normalize.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch06/town_hall/styles/.speaker.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch07/town_hall/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch07/town_hall/.sampson.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch07/town_hall/styles/.main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch07/town_hall/styles/.normalize.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch07/town_hall/styles/.speaker.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch08/ch08_fluid/town_hall/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch08/ch08_fluid/town_hall/.sampson.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch08/ch08_fluid/town_hall/styles/.main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch08/ch08_fluid/town_hall/styles/.speaker.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch08/ch08_media_queries_desktop_first/town_hall/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch08/ch08_media_queries_desktop_first/town_hall/.sampson.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch08/ch08_media_queries_desktop_first/town_hall/styles/.main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch08/ch08_media_queries_desktop_first/town_hall/styles/.slicknav.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch08/ch08_media_queries_desktop_first/town_hall/styles/.speaker.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch08/ch08_media_queries_mobile_first/town_hall/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch08/ch08_media_queries_mobile_first/town_hall/.sampson.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch08/ch08_media_queries_mobile_first/town_hall/styles/.main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch08/ch08_media_queries_mobile_first/town_hall/styles/.slicknav.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch08/ch08_media_queries_mobile_first/town_hall/styles/.speaker.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch09/town_hall/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch09/town_hall/.sampson.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch09/town_hall/styles/.main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch09/town_hall/styles/.slicknav.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch09/town_hall/styles/.speaker.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch10/ch10_12_column/town_hall/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch10/ch10_12_column/town_hall/.sampson.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch10/ch10_12_column/town_hall/styles/.main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch10/ch10_12_column/town_hall/styles/.slicknav.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch10/ch10_12_column/town_hall/styles/.speaker.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch10/ch10_template_areas/town_hall/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch10/ch10_template_areas/town_hall/.sampson.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch10/ch10_template_areas/town_hall/styles/.main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch10/ch10_template_areas/town_hall/styles/.slicknav.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch10/ch10_template_areas/town_hall/styles/.speaker.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch11/town_hall/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch11/town_hall/.sampson.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch11/town_hall/styles/.main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch11/town_hall/styles/.normalize.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch11/town_hall/styles/.speaker.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch13/town_hall/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch13/town_hall/.member.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch13/town_hall/.register_account.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch13/town_hall/.sampson.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch13/town_hall/styles/.main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch13/town_hall/styles/.member.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch13/town_hall/styles/.normalize.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch13/town_hall/styles/.speaker.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch14/town_hall/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch14/town_hall/media/.sjv_speakers_sampson.mp4.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch14/town_hall/media/.sjv_welcome.mp3.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch18/email_list_javascript/.email_list.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch18/email_list_javascript/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch18/email_list_javascript/.join.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch18/email_list_jquery/.email_list.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch18/email_list_jquery/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch18/email_list_jquery/.join.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch18/image_swap/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch18/image_swap/.main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch18/slide_show/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_apps/ch18/slide_show/.main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch02/.04_comments.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch02/.06_basic_selectors.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch02/.basic_selectors.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch03/.01_title_favicon.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch03/.02_metadata.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch03/.03_block.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch03/.03_headings.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch03/.04_special.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch03/.05_abbr.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch03/.05_inline.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch03/.06_entities.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch03/.07_coreattr.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch03/.08_semantic_elements.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch03/.09_more_semantics.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch03/.10_div_span.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch03/.12_links.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch03/.13_lists.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch03/.14_image.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch04/.02_selectors.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch04/.03_measurements.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch04/.04_colors.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch04/.05_css3colors.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch04/.06_font_families.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch04/.07_relational.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch04/.08_other_selectors.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch04/.08_text_shadow.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch04/.09_float_image.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch04/.11_pseudo.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch04/.17_custom_properties_eg1.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch04/.17_custom_properties_eg2.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch04/styles/.normalize.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch05/.02_box_model.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch05/.09_corners_shadow.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch05/.11_gradients.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch05/.default_margins.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch05/.margin_collapse.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch05/styles/.normalize.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch06/.01_float_clear.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch06/.02_2_column_fixed.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch06/.03_2_column_liquid.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch06/.03_2_column_liquid_fixed.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch06/.04_3_column_fixed.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch06/.10_text_columns.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch06/.10_text_columns_span.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch06/.11_two_column_article.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch06/.13_absolute_and_fixed.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch06/.14_fixed_sidebar.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch06/styles/.main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch06/styles/.normalize.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch06/styles/.speaker.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch06/styles/.speaker_2-column.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch07/.01_thru_07_lists.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch07/.08_09_12_13_links.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch07/.10_new_window.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch07/.11_placeholders.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch07/.14_15_navigation.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch07/.16_navigation _2_tier.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch07/.17_18_navigation _3_tier.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch07/media/.chapter_01.ppsx.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch07/media/.summary.docx.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch07/media/.twist_away.mp3.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch07/styles/.navigation.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch07/styles/.navigation_2_tier.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch07/styles/.navigation_3_tier.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch07/styles/.normalize.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch08/.04_calculate_fluid_widths.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch08/.05_vmin_units.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch08/.05_vw_units.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch08/.06_calculate_font_sizes.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch08/.07_scale_images.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch08/.12_slicknav.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch08/.17_container_queries.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch08/.fluid_layout_container.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch08/ch08_fluid_meta/town_hall/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch08/ch08_fluid_meta/town_hall/.sampson.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch08/ch08_fluid_meta/town_hall/styles/.main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch08/ch08_fluid_meta/town_hall/styles/.slicknav.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch08/ch08_fluid_meta/town_hall/styles/.speaker.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch08/ch08_fluid_no_meta/town_hall/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch08/ch08_fluid_no_meta/town_hall/.sampson.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch08/ch08_fluid_no_meta/town_hall/styles/.main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch08/ch08_fluid_no_meta/town_hall/styles/.slicknav.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch08/ch08_fluid_no_meta/town_hall/styles/.speaker.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch08/container_queries/.container.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch08/container_queries/styles/.main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch08/container_queries/styles/.normalize.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch08/container_query_test/.container.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch08/container_query_test/styles/.main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch08/container_query_test/styles/.normalize.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch08/styles/.main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch08/styles/.main_container_queries.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch08/styles/.normalize.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch08/styles/.slicknav.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch09/.01_intro.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch09/.02_first_flexbox.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch09/.03_main_axis_alignment.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch09/.04_cross_axis_alignment.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch09/.05_wrap_alignment.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch09/.06_flex-basis.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch09/.06_flex-grow.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch09/.06_flex-shrink.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch09/.06_flex.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch09/.07_order.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch10/.02_basic_grid.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch10/.03_grid_track_size.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch10/.04_alignment.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch10/.04_page_with_alignment.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch10/.05_numbered_lines.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch10/.06_named_lines.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch10/.07_template_areas.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch10/.08_12_column_grid.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch10/.13_advanced_grid.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch10/.13_call_to_action.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch10/.13_fixed_sidebar.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch10/.13_headline_and_gallery.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch10/.13_three_boxes.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch11/.01_animated.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch11/.02_resizing.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch11/.03_alignment.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch11/.04_float.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch11/.07_image_map.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch11/.09_logo.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch11/.10_transparency.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch11/.12_font_awesome.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch11/06_12_horses/.06_image_rollover.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch11/06_12_horses/.12_favicon.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch11/06_12_horses/.p1.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch11/06_12_horses/.p2.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch11/06_12_horses/.p3.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch11/06_12_horses/.p4.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch11/06_12_horses/.p5.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch11/06_12_horses/.p6.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch11/06_12_horses/styles/.thumbnails.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch11/08_img_element/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch11/08_picture_element/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch11/08_picture_element/images/.mountains.png.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch11/13_css3_font_face/.HARNGTON.TTF.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch11/13_css3_font_face/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch11/14_adobe_edge_web_fonts/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch11/14_google_web_fonts/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch12/.01_intro.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch12/.02_table_1_unformatted.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch12/.03_table_2.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch12/.04_table_2_css.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch12/.05_table_css3.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch12/.05_table_pseudo-classes.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch12/.06_table_figure.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch12/.07_table_merge.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch12/.08_table_accessibility.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch12/.09_table_2_rwd.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch13/.01_form.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch13/.02_buttons.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch13/.03_textfields.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch13/.04_radio_and_checkbox.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch13/.05_lists.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch13/.06_list_box.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch13/.07_textarea.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch13/.08_labels.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch13/.09_fieldset.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch13/.10_fileupload.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch13/.11_align_controls.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch13/.12_format_controls.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch13/.13_access_keys.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch13/.14_validation.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch13/.15_regex.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch13/.16_datalist.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch13/.17_email_url_tel_controls.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch13/.18_number_range_controls.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch13/.19_dates.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch13/.20_search.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch13/.21_color.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch13/.22_output.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch13/.23_progress_and_meter.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch14/.06_object_element.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch14/.07_embed_element.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch14/.08_audio_element.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch14/.08_video_element.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch14/media/.sjv_speakers_sampson.mp4.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch14/media/.sjv_speakers_sampson.ogv.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch14/media/.sjv_speakers_sampson.webm.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch14/media/.sjv_welcome.mp3.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch14/media/.sjv_welcome.ogg.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch15/01_transitions_basic/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch15/02_transitions/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch15/02_transitions/css/.styles.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch15/02_transitions/css/.transitions.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch15/03_transforms_basic/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch15/03_transforms_basic/css/.styles.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch15/04_transforms/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch15/04_transforms/css/.styles.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch15/04_transforms/css/.transforms.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch15/05_animation_basic/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch15/06_animations/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch15/06_animations/css/.animation.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch15/06_animations/css/.styles.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch15/07_filters_basic/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch15/07_filters_basic/css/.filters.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch15/07_filters_basic/css/.styles.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch15/08_filters/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch15/08_filters/css/.filters.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch15/08_filters/css/.styles.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch18/01_current_date_and_year/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch18/01_current_date_and_year/styles/.main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch18/02_current_date_and_year/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch18/02_current_date_and_year/styles/.main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch18/05_print_page/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/book_examples/ch18/05_print_page/styles/.main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/ch02/.book.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/ch02/.javascript_jquery.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/ch11/.students.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/ch11/styles/.main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/town_hall_1/.c4_index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/town_hall_1/.c5_index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/town_hall_1/.c6_index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/town_hall_1/.c7_index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/town_hall_1/.c8_index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/town_hall_2/.c10_index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/town_hall_2/.c9_index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/town_hall_2/styles/.c10_main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/town_hall_2/styles/.c9_main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/town_hall_2/styles/.slicknav.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/town_hall_3/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/town_hall_3/.luncheons.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/town_hall_3/.register_account.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/town_hall_3/.tickets.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/town_hall_3/media/.sampson.mp4.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/town_hall_3/speakers/.brancaccio.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/town_hall_3/speakers/.sampson.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/town_hall_3/styles/.main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/town_hall_3/styles/.normalize.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/town_hall_3/styles/.speaker.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/town_hall_3/styles/.tickets.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/town_hall_3/templates/.basic.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/town_hall_4/.image_swaps.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/town_hall_4/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/town_hall_4/speakers/.sampson.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/town_hall_4/styles/.main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/town_hall_4/styles/.normalize.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/exercises/town_hall_4/styles/.speaker.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/ch02/.book.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/ch02/.javascript_jquery.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/ch02/.testpage.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/ch02/.testpage.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/ch11/.students.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/ch11/styles/.main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_1/.c3_index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_1/.c4_index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_1/.c5_index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_1/.c6_index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_1/.c7_index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_1/.c8_index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_1/media/.sampson.mp4.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_1/speakers/.brancaccio.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_1/speakers/.c6_sampson.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_1/speakers/.c7_sampson.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_1/speakers/.chua.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_1/speakers/.sorkin.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_1/styles/.c4_main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_1/styles/.c5_main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_1/styles/.c6_main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_1/styles/.c6_speaker.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_1/styles/.c7_main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_1/styles/.c7_speaker.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_1/styles/.c8_main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_1/styles/.normalize.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_1/styles/.slicknav.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_2/.c10_index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_2/.c9_index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_2/styles/.c10_main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_2/styles/.c9_main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_2/styles/.slicknav.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_3/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_3/.luncheons.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_3/.register_account.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_3/.tickets.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_3/media/.sampson.mp4.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_3/speakers/.brancaccio.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_3/speakers/.sampson.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_3/speakers/.sampson_video.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_3/styles/.HARNGTON.TTF.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_3/styles/.main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_3/styles/.speaker.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_3/styles/.tickets.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_4/.image_swaps.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_4/.index.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_4/speakers/.sampson.html.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_4/styles/.main.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_4/styles/.normalize.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../IS117Download/student_download/solutions/town_hall_4/styles/.speaker.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../images/brancaccio75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../images/chua75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../images/eire75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../images/sampson75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../images/sampson_dinosaur.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../images/sorkin75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../images/town_hall_logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../images/tynan75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../js/jquery.slicknav.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../media/sampson.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speakers/brancaccio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speakers/c6_sampson.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speakers/c7_sampson.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speakers/chua.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../speakers/sorkin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../styles/c4_main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../styles/c5_main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../styles/c6_main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../styles/c6_speaker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../styles/c7_main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../styles/c7_speaker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../styles/c8_main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../styles/slicknav.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../text/c3_content.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -442,19 +56,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -467,6 +81,7 @@
       <workItem from="1680188360214" duration="279000" />
       <workItem from="1681744089733" duration="1934000" />
       <workItem from="1681859967402" duration="12739000" />
+      <workItem from="1681907707578" duration="527000" />
     </task>
     <servers />
   </component>
