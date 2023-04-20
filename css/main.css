@@ -72,6 +72,28 @@ header {
 
 }
 
+#card {
+    background-color: steelblue;
+    padding: 1.0em 0 2em 0;
+    margin: 0 auto;
+    border: 3px solid ghostwhite;
+    position: relative;
+    display: inline-block;
+}
+
+#card .img-top {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 99;
+    color: ghostwhite;
+}
+#card:hover .img-top {
+    display: inline;
+}
+
+
 /*---------------- end home page----------------*/
 /*---------------- about / work page----------------*/
 
